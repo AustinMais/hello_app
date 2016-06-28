@@ -9,6 +9,6 @@ class ApplicationController < ActionController::Base
     render html: "Goodbye, World!"
   end
   def kimi
-    render html: "                              Hello, Kimi!!"
+    render html: "Hello, Kimi!!"
   end
 end
